@@ -43,7 +43,7 @@
 <img src="banishing-layout.jpg" width="300">
 
 
-## 🕯️ 祈り（Invocation to Hekate for Protection）
+## 🕯️ 祈り（Invocation to Hekate for Banishing and Protection）
 
 > O Hekate, Keeper of the Threshold,  
 > She who sees through shadows,  
